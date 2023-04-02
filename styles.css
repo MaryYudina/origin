@@ -33,6 +33,11 @@ a:hover {
 
  }
 
+ h2 {
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+ }
+
 .avatar {
 
    width: 200px;
@@ -187,15 +192,15 @@ a:hover {
    }
 
    /* position*/
-   .position {
+   /*.position {
       position: relative;
       border: 4px solid yellow;
       margin-top: 40px;
       padding: 20px;
       height: 300px;
-   }
+   }*/
 
-   .box {
+   /*.box {
       position: fixed;
       bottom: 0;
       right: 10%;
@@ -203,4 +208,4 @@ a:hover {
       height: 50px;
       background: black;
       
-   }
+   }*/
